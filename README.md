@@ -7,4 +7,4 @@
 ## [Joining Data in SQL](./sql/JoiningDatainSQL.ipynb)
 
 
-## [IBM Developer Skills Network Final Assignment with Pandas](./finalassignment.ipynb)
+## [IBM Developer Skills Network Final Assignment with Pandas](./FinalAssignment.ipynb)
